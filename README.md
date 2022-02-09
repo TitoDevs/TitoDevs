@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Tito and i'm currently learning mobile development.
+
 <!--
 **TitoDevs/TitoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
