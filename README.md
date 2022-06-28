@@ -1,16 +1,16 @@
 <!-- Introduction -->
 
-<h1 align="left">Hi there!! 👋</h1>
-<p align="left">My name is Tito and I'm actually studying computer science</p>
+<h1 align="center">Hi there!! 👋</h1>
+<p align="center">My name is Tito and I'm actually studying computer science</p>
 
 <!-- About me -->
 
-<h1 align="left">About me :rocket:</h1>
+<h2 align="left">About me :rocket:</h2>
 <p align="left"> About me blablablabla </p>
 
 <!-- Skills -->
 
-<h1 align="left">Skills </h1>
+<h2 align="left">Skills </h2>
 
 <!-- Icons skills -->
 
