@@ -19,7 +19,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b7e7c7218cc77dda60dd84552ffe0f10ce4f035dd7e67e888df2e8d906e478cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="firebase"/></a> 
 
 <!-- Contact -->
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Find me at</h2>
 
 <!-- Linkedin -->
 <p align="left"> <a href="https://linkedin.com/in/ldanielgg" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/ldanielgg" /></a>
