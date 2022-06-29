@@ -2,8 +2,7 @@
 ![Banner Github](https://user-images.githubusercontent.com/75398496/176468355-0b4a557b-10e5-41ab-8756-049c7815ba32.png)
 
 <h1 align="center">Hi everyone!! My name is Tito 👋</h1>
-<h3 align="left">My name is Tito and I'm actually studying computer science</h3>
-##
+<p align="left">My name is Tito and I'm actually studying computer science</p>
 
 <!-- Skills -->
 <h2 align="left">Skills </h2>
