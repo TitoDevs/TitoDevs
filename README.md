@@ -3,6 +3,9 @@
 <h1 align="center">Hi there!! 👋</h1>
 <p align="center">My name is Tito and I'm actually studying computer science</p>
 
+![Banner Github](https://user-images.githubusercontent.com/75398496/176468355-0b4a557b-10e5-41ab-8756-049c7815ba32.png)
+
+
 <!-- About me -->
 
 <h2 align="left">About me :rocket:</h2>
