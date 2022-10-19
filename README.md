@@ -5,7 +5,7 @@
 <p align="left">My name is Tito and I'm currently studying computer science</p>
 
 <!-- Skills -->
-<h2 align="left">Skills </h2>
+<h2 align="left">Skills</h2>
 <!-- Java -->
 <p align "left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
@@ -16,8 +16,10 @@
 <!-- Android Studio -->
 <p align="left"> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3994c275eec45639c70521c4c0d0c8b438a9059493020680ca806ade576f821d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69645f53747564696f2d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="android studio"/></a>
 <!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b7e7c7218cc77dda60dd84552ffe0f10ce4f035dd7e67e888df2e8d906e478cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="firebase"/></a> 
-
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b7e7c7218cc77dda60dd84552ffe0f10ce4f035dd7e67e888df2e8d906e478cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="firebase"/></a>
+<!-- JavaScript -->
+<p align="left"><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4defbd057be7f9b9b72692e87060e4d9e912372695002a0159b9cac042da3677/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="javascript"/></a></p>
+<p>Learning more...</p>
 <!-- Contact -->
 <h2 align="left">Find me at</h2>
 
