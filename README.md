@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h1 align="center">¡HOLA A TODOS! SOY TITO👋</h1>
 
-![Banner Github](https://user-images.githubusercontent.com/75398496/176468355-0b4a557b-10e5-41ab-8756-049c7815ba32.png)
+![1](https://user-images.githubusercontent.com/75398496/207724341-7abbb772-73a0-44cf-a080-9064e6e41d48.png)
 <br><br>
 
 <h2>🎓 ACERCA DE MÍ</h2>
