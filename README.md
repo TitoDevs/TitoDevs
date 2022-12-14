@@ -5,27 +5,27 @@
 <br><br>
 
 <h2>🎓 ACERCA DE MI</h2>
-Me llamo Luis Daniel y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, pero por motivos personales lo he tenido que dejar a un lado. En 2022 me inscribí a un bootcamp "Full Stack" en OpenBootcamp y también me matriculé en el grado superior DAM.
-<br><br>
+<p align="justify">Me llamo Tito y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, pero por motivos personales lo he tenido que dejar a un lado. En 2022 me inscribí a un bootcamp "Full Stack" en OpenBootcamp y también me matriculé en el grado superior DAM.</p>
+<br>
 
 <h2>📈 EXPERIENCIA</h2>
-Mi última experiencia laboral fue desempeñando el puesto de administrativo-comercial en una empresa de telecomunicaciones. Esta etapa me ayudó a desarrollar mi capacidad de adaptación al entorno, mi grado de responsabilidad y gestionar situaciones difíciles. Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, el mundo de la informática.
-<br><br>
+<p align="justify">Mi última experiencia laboral fue desempeñando el puesto de administrativo-comercial en una empresa de telecomunicaciones. Esta etapa me ayudó a desarrollar mi capacidad de adaptación al entorno, mi grado de responsabilidad y gestionar situaciones difíciles. Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, el mundo de la informática.</p>
+<br>
 
 <h2>✌️¿POR QUÉ YO?</h2>
-Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.
-Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera. 
+<p align="justify">Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.
+Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera.</p>
+
+<p align="justify">👉 En estos momentos busco un proyecto donde pueda aportar valor y me permita crecer tanto personal como profesionalmente. Cuento con GARANTÍA JUVENIL.</p>
+
+<p align="justify"📝>Si quieres conocer más de mí o necesitas más información, no dudes en preguntarme.</p>
+
+<p align="justify">¡¡IMPORTANTE!!
+Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, NO puedo hacer aún convenio con la universidad para hacer unas prácticas, ya me gustaría a mí, pero aún no he logrado los créditos.</p>
 <br>
-👉 En estos momentos busco un proyecto donde pueda aportar valor y me permita crecer tanto personal como profesionalmente. Cuento con GARANTÍA JUVENIL.
-
-📝 Si quieres conocer más de mí o necesitas más información, no dudes en preguntarme.
-
-¡¡IMPORTANTE!!
-Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, NO puedo hacer aún convenio con la universidad para hacer unas prácticas, ya me gustaría a mí, pero aún no he logrado los créditos.
-<br><br>
 
 <h2>⭐ SKILLS</h2>
-Lenguajes
+<h3>Lenguajes</h3>
 <!-- Java -->
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
@@ -68,7 +68,7 @@ Lenguajes
   </a>
 </p>
 
-Control de version
+<h3>Control de version</h3>
 <!-- Git -->
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -80,6 +80,7 @@ Control de version
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
+<br>
 
 <!-- Contacto -->
 <h2>🔍 ENCUENTRAME EN</h2>
