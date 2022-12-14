@@ -33,37 +33,37 @@ Lenguajes
   </a> 
 
   <!-- Kotlin -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   </a>
 
   <!-- CSS3 -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   </a>
 
   <!-- HTML5 -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.html6.es/t1_estructura.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   </a>
 
   <!-- JavaScript -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   </a>
 
   <!-- Haskell -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="haskell"/>
   </a>
 
   <!-- Python -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   </a>
 
   <!-- C -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   </a>
 </p>
@@ -71,12 +71,12 @@ Lenguajes
 Control de version
 <!-- Git -->
 <p>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a> 
 
   <!-- Github -->
-  <a href="https://www.kotlin.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
@@ -87,21 +87,21 @@ Control de version
 <!-- Linkedin -->
 <p align="left"> 
   <a href="https://linkedin.com/in/ldanielgg" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/ldanielgg"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   
   <!-- Stackoverflow -->
   <a href="https://stackoverflow.com/users/286602/titodevs" target="blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="https://es.stackoverflow.com/users/286602/titodevs"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/>
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/titodev_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="www.linkedin.com/in/ldanielgg"/>
+  <a href="https://www.instagram.com/titodevs" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 
   <!-- Discord -->
-  <a href="https://www.instagram.com/titodev_" target="blank">
+  <a href="https://discord.com/" target="blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
 </p>
