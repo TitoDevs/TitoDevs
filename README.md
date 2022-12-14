@@ -1,10 +1,10 @@
 <!-- Introduction -->
-<h1 align="center">Hola a todos!! Soy Tito👋</h1>
+<h1 align="center">¡HOLA A TODOS! SOY TITO👋</h1>
 
 ![Banner Github](https://user-images.githubusercontent.com/75398496/176468355-0b4a557b-10e5-41ab-8756-049c7815ba32.png)
 <br><br>
 
-<h2>🎓 ACERCA DE MI</h2>
+<h2>🎓 ACERCA DE MÍ</h2>
 <p align="justify">Me llamo Tito y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, pero por motivos personales lo he tenido que dejar a un lado. En 2022 me inscribí a un bootcamp "Full Stack" en OpenBootcamp y también me matriculé en el grado superior DAM.</p>
 <br>
 
@@ -25,9 +25,11 @@ Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por
 <br>
 
 <h2>⭐ SKILLS</h2>
+
 <h3>Lenguajes</h3>
-<!-- Java -->
-<p align="left"> 
+
+<p>
+  <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   </a> 
@@ -69,8 +71,9 @@ Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por
 </p>
 
 <h3>Control de version</h3>
-<!-- Git -->
+
 <p>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a> 
@@ -83,10 +86,10 @@ Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por
 <br>
 
 <!-- Contacto -->
-<h2>🔍 ENCUENTRAME EN</h2>
+<h2>🔍 ENCUENTRAME EN ...</h2>
 
-<!-- Linkedin -->
-<p align="left"> 
+<p>
+  <!-- Linkedin -->
   <a href="https://linkedin.com/in/ldanielgg" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
