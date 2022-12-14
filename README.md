@@ -1,8 +1,30 @@
 <!-- Introduction -->
+<h1 align="center">Hola a todos!! Soy Tito👋</h1>
+
 ![Banner Github](https://user-images.githubusercontent.com/75398496/176468355-0b4a557b-10e5-41ab-8756-049c7815ba32.png)
 
-<h1 align="left">Hi everyone!! 👋</h1>
-<p align="left">My name is Tito and I'm currently studying computer science</p>
+<h2>🎓 ACERCA DE MI</h2>
+
+Me llamo Luis Daniel y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, pero por motivos personales lo he tenido que dejar a un lado. En 2022 me inscribí a un bootcamp "Full Stack" en OpenBootcamp y también me matriculé en el grado superior DAM.
+<br><br>
+
+<h2>📈 EXPERIENCIA</h2>
+
+Mi última experiencia laboral fue desempeñando el puesto de administrativo-comercial en una empresa de telecomunicaciones. Esta etapa me ayudó a desarrollar mi capacidad de adaptación al entorno, mi grado de responsabilidad y gestionar situaciones difíciles. Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, la informática.
+<br><br>
+
+<h2>✌️¿POR QUÉ YO?</h2>
+
+Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.
+Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera. 
+
+👉 En estos momentos busco un proyecto donde pueda aportar valor y me permita crecer tanto personal como profesionalmente. Cuento con GARANTÍA JUVENIL.
+
+📝 Si quieres conocer más de mí o necesitas más información, no dudes en preguntarme.
+
+¡¡IMPORTANTE!!
+Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, NO puedo hacer aún convenio con la universidad para hacer unas prácticas, ya me gustaría a mí, pero aún no he logrado los créditos.
+<br><br>
 
 <!-- Skills -->
 <h2 align="left">Skills</h2>
