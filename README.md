@@ -21,7 +21,7 @@ Mi meta es convertirme en un programador lo más completo posible, con habilidad
 <p align="justify"📝>Si quieres conocer más de mí o necesitas más información, no dudes en preguntarme.</p>
 
 <p align="justify">¡¡IMPORTANTE!!
-Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, NO puedo hacer aún convenio con la universidad para hacer unas prácticas, ya me gustaría a mí, pero aún no he logrado los créditos.</p>
+Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.</p>
 <br>
 
 <h2>⭐ SKILLS</h2>
