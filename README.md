@@ -5,7 +5,7 @@
 <br><br>
 
 <h2>🎓 ACERCA DE MÍ</h2>
-<p align="justify">Me llamo Tito y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática y en 2022 me inscribí a un bootcamp "Full Stack" en OpenBootcamp y también me matriculé en el grado superior DAM.</p>
+<p align="justify">Me llamo Tito y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, en 2022 me inscribí a un bootcamp "Full Stack" de OpenBootcamp y también me matriculé en el grado superior DAM.</p>
 <br>
 
 <h2>📈 EXPERIENCIA</h2>
