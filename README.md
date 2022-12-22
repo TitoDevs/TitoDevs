@@ -7,7 +7,7 @@
 <!-- Skills -->
 <h2 align="left">Skills</h2>
 <!-- Java -->
-<p align "left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
 <!-- Kotlin -->
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/554b56b332325b2023acdafdbcc29ec30e22cba19fc8d4697389ffe06202c889/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3030393544353f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="kotlin"/> </a> 
