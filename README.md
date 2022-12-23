@@ -1,5 +1,4 @@
-<!-- Introduction -->
-<h1 align="center">¡Hola a todos! Soy Tito</h1>
+<h2 align="center">¡HOLA A TODOS!👋 SOY TITO</h2>
 
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
@@ -23,7 +22,7 @@ Mi meta es convertirme en un programador lo más completo posible, con habilidad
 ‼️IMPORTANTE‼️
 Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.
 
-## SKILLS
+## ⭐ SKILLS
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="java"/>
@@ -67,7 +66,7 @@ Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por
   
 </p>
 
-## ENCUENTRAME EN...
+## 🔎 ENCUENTRAME EN...
 <p align="left">
   <a href="https://linkedin.com/in/ldanielgg" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/ldanielgg" />
