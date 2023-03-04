@@ -4,35 +4,35 @@
 
 ## 🎓 ACERCA DE MI
 
-Soy Luis Daniel, un apasionado de la informática en proceso de formación como programador. 
+<p align="justify">Soy Luis Daniel, un apasionado de la informática en proceso de formación como programador. </p>
 
-Actualmente, estoy cursando el grado de ingeniería informática, el grado superior DAM y he completado un bootcamp "Full Stack" de OpenBootcamp. 
-Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome al 100% en todo lo que hago.
+<p align="justify">Actualmente, estoy cursando el grado de ingeniería informática, el grado superior DAM y he completado un bootcamp "Full Stack" de OpenBootcamp. 
+Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome al 100% en todo lo que hago.</p>
 
 ## 📈 EXPERIENCIA
 
-Antes de enfocarme en la programación, trabajé como administrativo-comercial en una empresa de telecomunicaciones, donde desarrollé habilidades como resolución de problemas, capacidad para trabajar bajo presión y habilidades interpersonales.
+<p align="justify">Antes de enfocarme en la programación, trabajé como administrativo-comercial en una empresa de telecomunicaciones, donde desarrollé habilidades como resolución de problemas, capacidad para trabajar bajo presión y habilidades interpersonales.</p>
 
-Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, la informática.
+<p align="justify">Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, la informática.</p>
 
 ## ✌️¿POR QUÉ YO?
 
-Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.
+<p align="justify">Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.</p>
 
-Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera. 
+<p align="justify">Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera.</p>
 
 ## 👉 EN BUSCA DE OPORTUNIDADES
 
-En este momento, estoy buscando oportunidades para seguir creciendo tanto personal como profesionalmente. 
+<p align="justify">En este momento, estoy buscando oportunidades para seguir creciendo tanto personal como profesionalmente.</p>
 
-Me gustaría participar en proyectos desafiantes que me permitan aplicar mis habilidades y aprender nuevas tecnologías. Cuento con garantía juvenil y estoy disponible para empezar a trabajar en el corto plazo.
+<p align="justify">Me gustaría participar en proyectos desafiantes que me permitan aplicar mis habilidades y aprender nuevas tecnologías. Cuento con garantía juvenil y estoy disponible para empezar a trabajar en el corto plazo.</p>
 
 ## 📝 CONTACTO
 
-Si necesitas más información o quieres conocerme mejor, no dudes en contactarme. Estoy disponible para una entrevista o para responder cualquier pregunta que puedas tener.
+<p align="justify">Si necesitas más información o quieres conocerme mejor, no dudes en contactarme. Estoy disponible para una entrevista o para responder cualquier pregunta que puedas tener.</p>
 
 ‼️IMPORTANTE‼️
-Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.
+<p align="justify">Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.</p>
 
 ## ⭐ SKILLS
 <p align="left">
