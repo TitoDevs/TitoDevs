@@ -4,20 +4,32 @@
 
 ## 🎓 ACERCA DE MI
 
-Me llamo Luis Daniel y actualmente me estoy formando para ser programador. Hace dos años comencé los estudios en ingeniería informática, en 2022 me inscribí a un bootcamp "Full Stack" de OpenBootcamp y también me matriculé en el grado superior DAM.
+Soy Luis Daniel, un apasionado de la informática en proceso de formación como programador. 
+
+Actualmente, estoy cursando el grado de ingeniería informática, el grado superior DAM y he completado un bootcamp "Full Stack" de OpenBootcamp. 
+Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome al 100% en todo lo que hago.
 
 ## 📈 EXPERIENCIA
 
-Mi última experiencia laboral fue desempeñando el puesto de administrativo-comercial en una empresa de telecomunicaciones. Esta etapa me ayudó a desarrollar mi capacidad de adaptación al entorno, mi grado de responsabilidad y gestionar situaciones difíciles. Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, la informática.
+Antes de enfocarme en la programación, trabajé como administrativo-comercial en una empresa de telecomunicaciones, donde desarrollé habilidades como resolución de problemas, capacidad para trabajar bajo presión y habilidades interpersonales.
+
+Fue un periodo muy importante para mí donde descubrí mi verdadera vocación, la informática.
 
 ## ✌️¿POR QUÉ YO?
 
 Me defino como una persona positiva, con ganas de aprender nuevas tecnologías y siempre involucrada al 100% en todo lo que hago.
+
 Mi meta es convertirme en un programador lo más completo posible, con habilidades más allá de la aplicación de los conocimientos que se adquieren en la carrera. 
 
-👉 En estos momentos busco un proyecto donde pueda aportar valor y me permita crecer tanto personal como profesionalmente. Cuento con GARANTÍA JUVENIL.
+## 👉 EN BUSCA DE OPORTUNIDADES
 
-📝 Si quieres conocer más de mí o necesitas más información, no dudes en preguntarme.
+En este momento, estoy buscando oportunidades para seguir creciendo tanto personal como profesionalmente. 
+
+Me gustaría participar en proyectos desafiantes que me permitan aplicar mis habilidades y aprender nuevas tecnologías. Cuento con garantía juvenil y estoy disponible para empezar a trabajar en el corto plazo.
+
+## 📝 CONTACTO
+
+Si necesitas más información o quieres conocerme mejor, no dudes en contactarme. Estoy disponible para una entrevista o para responder cualquier pregunta que puedas tener.
 
 ‼️IMPORTANTE‼️
 Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.
@@ -62,6 +74,18 @@ Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+  
+  <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+  </a>
+  
+  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs"/>
+  </a>
+  
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
   </a>
   
 </p>
