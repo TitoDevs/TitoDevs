@@ -80,7 +80,7 @@ Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome a
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </a>
   
-  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://es.reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs"/>
   </a>
   
