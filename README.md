@@ -2,7 +2,7 @@
 
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
-## 🎓 ACERCA DE MI
+### 🎓 ACERCA DE MI
 
 <p align="justify">Soy Luis Daniel, un apasionado de la informática en proceso de formación como programador. </p>
 
