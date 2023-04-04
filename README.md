@@ -37,7 +37,7 @@ Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome a
 ## ⭐ SKILLS
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="java"/>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
   </a>
   
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
