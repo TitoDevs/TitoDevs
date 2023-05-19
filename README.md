@@ -100,7 +100,7 @@ Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome a
     <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="https://es.stackoverflow.com/users/286602/titodevs"/>
   </a>
 
-  <a href="https://www.instagram.com/titodev_" target="blank">
+  <a href="https://www.instagram.com/tito.dev" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="www.linkedin.com/in/ldanielgg" />
   </a>
 </p>
