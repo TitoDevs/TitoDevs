@@ -31,9 +31,6 @@ Me encanta aprender nuevas tecnologías y habilidades, siempre involucrándome a
 
 <p align="justify">Si necesitas más información o quieres conocerme mejor, no dudes en contactarme. Estoy disponible para una entrevista o para responder cualquier pregunta que puedas tener.</p>
 
-‼️IMPORTANTE‼️
-<p align="justify">Si has llegado hasta aquí es porque le interesa mi perfil, o eso creo 😁. Por favor, si eres recruiter, por el momento NO puedo hacer aún convenio con la universidad para hacer unas prácticas.</p>
-
 ## ⭐ SKILLS
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
