@@ -8,13 +8,15 @@ Soy Luis Daniel, un apasionado de la informática en proceso de formación como 
 Actualmente, estoy trabajando y he completado con éxito el grado superior DAM, así como un bootcamp de 'Full Stack' en OpenBootcamp. Mi pasión por aprender y mi dedicación al 100% en cada proyecto son rasgos distintivos de mi personalidad.
 
 ## 📈 EXPERIENCIA
-Realizo proyectos en Microsoft Dynamics AX 2012 R2 y su CRM, enfocándome en optimizaciones que nos solicitan nuestros compañeros de cada área.
+### COSMEWAX
+#### Julio 2023 - Actualidad
+- Apasionado por impulsar la eficiencia y productividad en el desarrollo de software, me especializo en Microsoft Dynamics AX 2012 R2 y su CRM. Mi enfoque se centra en traducir las necesidades de mis compañeros en mejoras tangibles, elevando así el rendimiento del equipo. Colaboro estrechamente, identifico oportunidades de optimización y transformo ideas en soluciones concretas.
 
-Lidero la implementación de Moodle para formación interna, adaptándolo a las necesidades específicas de nuestra organización.
+- Dirijo la implementación de Moodle para la formación interna, donde estoy creando un entorno educativo único y a medida. Mi enfoque se centra en adaptar Moodle a las necesidades específicas de nuestra organización, asegurando una experiencia de aprendizaje personalizada y efectiva.
 
-Dirijo la creación de una web innovadora haciendo destacar nuestro portafolio, elevando nuestra presencia en eventos clave.
+- Lidero la creación de una web innovadora que destaca el portafolio de nuestra empresa. Esta web se convertirá en nuestra carta de presentación en eventos, proporcionando a los visitantes la oportunidad de interactuar de manera inmersiva con nuestro portafolio. ¡Imagina mostrar lo que hacemos de una manera que no solo impresiona, sino que también involucra! La web esta diseñada con la potente librería React y otras librerías de terceros. 
 
-Ofrezco soporte técnico integral, desde la instalación de hardware o software hasta la gestión proactiva de incidentes, garantizando un flujo operativo impecable en nuestro parque informático.
+- En el núcleo de mis responsabilidades, ofrezco soporte técnico esencial, desde la instalación de hardware y software hasta una gestión proactiva de incidentes y solicitudes. Mi objetivo es garantizar un flujo operativo sin contratiempos en el parque informático, proporcionando un servicio óptimo para los usuarios internos
 
 ## ✌️¿POR QUÉ YO?
 Me considero una persona optimista, con una gran determinación para aprender nuevas tecnologías y dedicada en su totalidad en todo lo que emprende.
