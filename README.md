@@ -14,7 +14,7 @@ Actualmente, estoy trabajando y he completado con éxito el grado superior DAM, 
 
 - Lidero la creación de una web innovadora que destaca el portafolio de nuestra empresa. Esta web se convertirá en nuestra carta de presentación en eventos, proporcionando a los visitantes la oportunidad de interactuar de manera inmersiva con nuestro portafolio. ¡Imagina mostrar lo que hacemos de una manera que no solo impresiona, sino que también involucra! La web esta diseñada con la potente librería React y otras librerías de terceros. 
 
-- En el núcleo de mis responsabilidades, ofrezco soporte técnico esencial, desde la instalación de hardware y software hasta una gestión proactiva de incidentes y solicitudes. Mi objetivo es garantizar un flujo operativo sin contratiempos en el parque informático, proporcionando un servicio óptimo para los usuarios internos
+- En el núcleo de mis responsabilidades, ofrezco soporte técnico esencial, desde la instalación de hardware y software hasta una gestión proactiva de incidentes y solicitudes. Mi objetivo es garantizar un flujo operativo sin contratiempos en el parque informático, proporcionando un servicio óptimo para los usuarios internos.
 
 ## ✌️¿POR QUÉ YO?
 Me considero una persona optimista, con una gran determinación para aprender nuevas tecnologías y dedicada en su totalidad en todo lo que emprende.
