@@ -3,7 +3,7 @@
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
 ## 🎓 ACERCA DE MI
-Actualmente, estoy trabajando y he completado con éxito el grado superior DAM, así como un bootcamp de 'Full Stack' en OpenBootcamp. Mi pasión por aprender y mi dedicación al 100% en cada proyecto son rasgos distintivos de mi personalidad.
+Actualmente estoy trabajando y he completado con éxito el grado superior DAM, así como un bootcamp de 'Full Stack' en OpenBootcamp. Mi pasión por aprender y mi dedicación al 100% en cada proyecto son rasgos distintivos de mi personalidad.
 
 ## 📈 EXPERIENCIA
 ### COSMEWAX
