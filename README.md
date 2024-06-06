@@ -3,32 +3,29 @@
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
 ## 🎓 ACERCA DE MI
-Actualmente estoy trabajando y he completado con éxito el grado superior DAM, así como un bootcamp de 'Full Stack' en OpenBootcamp. Mi pasión por aprender y mi dedicación al 100% en cada proyecto son rasgos distintivos de mi personalidad.
+Soy un apasionado del desarrollo de software con un sólido historial académico y profesional. He completado con éxito un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp de Full Stack en OpenBootcamp. Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuevas tecnologías son los pilares de mi carrera.
 
 ## 📈 EXPERIENCIA
 ### COSMEWAX
 #### Julio 2023 - Actualidad
-- Apasionado por impulsar la eficiencia y productividad en el desarrollo de software, me especializo en Microsoft Dynamics AX 2012 R2 y su CRM. Mi enfoque se centra en traducir las necesidades de mis compañeros en mejoras tangibles, elevando así el rendimiento del equipo. Colaboro estrechamente, identifico oportunidades de optimización y transformo ideas en soluciones concretas.
+- **Especialización en Microsoft Dynamics AX 2012 R2 y CRM**: Me enfoco en optimizar procesos y mejorar la eficiencia mediante la identificación de oportunidades de mejora y la implementación de soluciones prácticas.
+- **Implementación de Moodle**: Estoy liderando la configuración y personalización de Moodle para la formación interna, creando un entorno educativo adaptado a las necesidades específicas de la empresa.
+- **Desarrollo de Web Innovadora**: Diseño y desarrollo de una web interactiva para mostrar el portafolio de la empresa en eventos, utilizando React y librerías de terceros para crear una experiencia inmersiva.
+- **Soporte Técnico Integral**: Desde la instalación de hardware y software hasta la gestión proactiva de incidentes, garantizo un funcionamiento fluido del parque informático y un servicio óptimo para los usuarios internos.
+- **PowerApps y Power Automate**: Desarrollo soluciones para agilizar el trabajo interno utilizando Power Apps junto con Power Automate para automatizar flujos de trabajo y mejorar la eficiencia operativa.
+- **Integración con ERP mediante Web Services**: Diseño y desarrollo de una web que se conecta al ERP de la empresa mediante web services, mejorando la conectividad y funcionalidad del sistema. Esto permite a los trabajadores tener una interfaz más atractiva y agilizar su trabajo.
 
-- Dirijo la implementación de Moodle para la formación interna, donde estoy creando un entorno educativo único y a medida. Mi enfoque se centra en adaptar Moodle a las necesidades específicas de nuestra organización, asegurando una experiencia de aprendizaje personalizada y efectiva.
-
-- Lidero la creación de una web innovadora que destaca el portafolio de nuestra empresa. Esta web se convertirá en nuestra carta de presentación en eventos, proporcionando a los visitantes la oportunidad de interactuar de manera inmersiva con nuestro portafolio. ¡Imagina mostrar lo que hacemos de una manera que no solo impresiona, sino que también involucra! La web esta diseñada con la potente librería React y otras librerías de terceros. 
-
-- En el núcleo de mis responsabilidades, ofrezco soporte técnico esencial, desde la instalación de hardware y software hasta una gestión proactiva de incidentes y solicitudes. Mi objetivo es garantizar un flujo operativo sin contratiempos en el parque informático, proporcionando un servicio óptimo para los usuarios internos.
-
-## ✌️¿POR QUÉ YO?
-Me considero una persona optimista, con una gran determinación para aprender nuevas tecnologías y dedicada en su totalidad en todo lo que emprende.
-
-Mi objetivo es convertirme en un programador altamente capacitado, con habilidades que trasciendan la simple aplicación de los conocimientos adquiridos en las enseñanzas.
+## ✌️ ¿POR QUÉ YO?
+Soy una persona optimista y determinada, siempre en busca de aprender y superar nuevos desafíos. Mi objetivo es convertirme en un programador de alto nivel, capaz de aplicar y trascender los conocimientos adquiridos para aportar soluciones innovadoras y efectivas.
 
 ## 👉 EN BUSCA DE OPORTUNIDADES
-Estoy en busca de nuevas oportunidades que me permitan seguir creciendo tanto a nivel personal como profesional. Me encantaría contribuir a proyectos desafiantes que me brinden la posibilidad de aplicar mis habilidades y adquirir nuevos conocimientos en el campo de la programación.
+Estoy abierto a nuevas oportunidades que me permitan seguir creciendo tanto personal como profesionalmente. Me entusiasma la posibilidad de trabajar en proyectos desafiantes donde pueda aplicar mis habilidades y seguir aprendiendo.
 
 ## 📝 CONTACTO
-Si necesitas más información o quieres conocerme mejor, no dudes en contactarme. Estoy disponible para una entrevista o para responder cualquier pregunta que puedas tener.
+Para más información o para coordinar una entrevista, no dudes en contactarme. Estoy disponible para responder cualquier pregunta que puedas tener.
 
 ## ⭐ SKILLS
-[![Java](https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite)](https://www.java.com)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://lenguajehtml.com/html/)
@@ -40,7 +37,6 @@ Si necesitas más información o quieres conocerme mejor, no dudes en contactarm
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TitoDevs)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/es/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.reactjs.org/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -53,3 +49,5 @@ Si necesitas más información o quieres conocerme mejor, no dudes en contactarm
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/286602/titodevs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tito.dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/titodev/)
+
+---
