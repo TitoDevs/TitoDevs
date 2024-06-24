@@ -2,18 +2,29 @@
 
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
-## 🎓 ACERCA DE MI
+## 🎓 ACERCA DE MÍ
 Soy un apasionado del desarrollo de software con un sólido historial académico y profesional. He completado con éxito un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp de Full Stack en OpenBootcamp. Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuevas tecnologías son los pilares de mi carrera.
 
 ## 📈 EXPERIENCIA
-### COSMEWAX
-#### Julio 2023 - Actualidad
-- **Especialización en Microsoft Dynamics AX 2012 R2 y CRM**: Me enfoco en optimizar procesos y mejorar la eficiencia mediante la identificación de oportunidades de mejora y la implementación de soluciones prácticas.
-- **Implementación de Moodle**: Estoy liderando la configuración y personalización de Moodle para la formación interna, creando un entorno educativo adaptado a las necesidades específicas de la empresa.
-- **Desarrollo de Web Innovadora**: Diseño y desarrollo de una web interactiva para mostrar el portafolio de la empresa en eventos, utilizando React y librerías de terceros para crear una experiencia inmersiva.
-- **Soporte Técnico Integral**: Desde la instalación de hardware y software hasta la gestión proactiva de incidentes, garantizo un funcionamiento fluido del parque informático y un servicio óptimo para los usuarios internos.
-- **PowerApps y Power Automate**: Desarrollo soluciones para agilizar el trabajo interno utilizando Power Apps junto con Power Automate para automatizar flujos de trabajo y mejorar la eficiencia operativa.
-- **Integración con ERP mediante Web Services**: Diseño y desarrollo de una web que se conecta al ERP de la empresa mediante web services, mejorando la conectividad y funcionalidad del sistema. Esto permite a los trabajadores tener una interfaz más atractiva y agilizar su trabajo.
+COSMEWAX
+Julio 2023 - Actualidad
+- **Especialización en Microsoft Dynamics AX 2012 R2 y CRM:** Me enfoco en optimizar procesos y mejorar la eficiencia mediante la identificación de oportunidades de mejora y la implementación de soluciones prácticas.
+  - Tecnologías utilizadas: Microsoft Dynamics AX 2012 R2, CRM, SQL Serve r.
+
+- **Implementación de Moodle:** Estoy liderando la configuración y personalización de Moodle para la formación interna, creando un entorno educativo adaptado a las necesidades específicas de la empresa.
+  - Tecnologías utilizadas: Moodle, PHP, MySQL.
+
+- **Desarrollo de Web Innovadora:** Diseño y desarrollo de una web interactiva para mostrar el portafolio de la empresa en eventos, utilizando React y librerías de terceros para crear una experiencia inmersiva.
+  - Tecnologías utilizadas: React, JavaScript, HTML5, CSS3.
+
+- **Soporte Técnico Integral:** Desde la instalación de hardware y software hasta la gestión proactiva de incidentes, garantizo un funcionamiento fluido del parque informático y un servicio óptimo para los usuarios internos.
+  - Tecnologías utilizadas: Windows, Linux, Active Directory, Hardware de red.
+
+- **PowerApps y Power Automate:** Desarrollo soluciones para agilizar el trabajo interno utilizando Power Apps junto con Power Automate para automatizar flujos de trabajo y mejorar la eficiencia operativa.
+  - Tecnologías utilizadas: PowerApps, Power Automate, Office 365.
+
+- **Integración con ERP mediante Web Services:** Diseño y desarrollo de una web que se conecta al ERP de la empresa mediante web services, mejorando la conectividad y funcionalidad del sistema. Esto permite a los trabajadores tener una interfaz más atractiva y agilizar su trabajo.
+  - Tecnologías utilizadas: Web Services, .NET, C#, SQL Server.
 
 ## ✌️ ¿POR QUÉ YO?
 Soy una persona optimista y determinada, siempre en busca de aprender y superar nuevos desafíos. Mi objetivo es convertirme en un programador de alto nivel, capaz de aplicar y trascender los conocimientos adquiridos para aportar soluciones innovadoras y efectivas.
