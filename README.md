@@ -3,7 +3,8 @@
 ![Banner Linkedin](https://user-images.githubusercontent.com/75398496/209383236-c09c6532-fbe7-4135-8891-45ebdf321110.png)
 
 ## 🎓 ACERCA DE MÍ
-Soy un apasionado del desarrollo de software con un sólido historial académico y profesional. He completado con éxito un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp de Full Stack en OpenBootcamp. Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuevas tecnologías son los pilares de mi carrera.
+Soy un apasionado del desarrollo de software con un sólido historial académico y profesional. He completado con éxito un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp de Full Stack en OpenBootcamp.
+Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuevas tecnologías son los pilares de mi carrera.
 
 ## 📈 EXPERIENCIA
 COSMEWAX
