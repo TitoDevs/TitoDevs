@@ -4,6 +4,7 @@
 
 ## 🎓 ACERCA DE MÍ
 Soy un apasionado del desarrollo de software con un sólido historial académico y profesional. He completado con éxito un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y un bootcamp de Full-Stack en OpenBootcamp.
+
 Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuevas tecnologías son los pilares de mi carrera.
 
 ## 📈 EXPERIENCIA
