@@ -11,7 +11,7 @@ Mi compromiso con la excelencia y mi entusiasmo por aprender constantemente nuev
 COSMEWAX
 Julio 2023 - Actualidad
 - **Especialización en Microsoft Dynamics AX 2012 R2 y CRM:** Me enfoco en optimizar procesos y mejorar la eficiencia mediante la identificación de oportunidades de mejora y la implementación de soluciones prácticas.
-  - Tecnologías utilizadas: Microsoft Dynamics AX 2012 R2, CRM, SQL Server.
+  - Tecnologías utilizadas: Microsoft Dynamics AX 2012 R2, CRM.
 
 - **Implementación de Moodle:** Estoy liderando la configuración y personalización de Moodle para la formación interna, creando un entorno educativo adaptado a las necesidades específicas de la empresa.
   - Tecnologías utilizadas: Moodle, PHP, MySQL, Node, Express.
