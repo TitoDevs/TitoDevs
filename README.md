@@ -14,7 +14,7 @@ Julio 2023 - Actualidad
   - Tecnologías utilizadas: Microsoft Dynamics AX 2012 R2, CRM.
 
 - **Implementación de Moodle:** Estoy liderando la configuración y personalización de Moodle para la formación interna, creando un entorno educativo adaptado a las necesidades específicas de la empresa.
-  - Tecnologías utilizadas: Moodle, PHP, MySQL, Node, Express.
+  - Tecnologías utilizadas: Moodle, PHP, MySQL, Node, Express, JavaScript.
 
 - **Desarrollo de Web Innovadora:** Diseño y desarrollo de una web interactiva para mostrar el portafolio de la empresa en eventos, utilizando React y librerías de terceros para crear una experiencia inmersiva.
   - Tecnologías utilizadas: React, JavaScript, HTML5, CSS3.
